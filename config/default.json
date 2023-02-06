@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://bonecrushereb:Bn!092014@portfoliocluster.zj6g984.mongodb.net/?retryWrites=true&w=majority",
+  "githubClientId": "50e061f5fd278f187544",
+  "githubSecret": "24d7bc30e6e38cfdb634259b4894438d4e44e526"
+}
